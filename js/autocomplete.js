@@ -1,6 +1,6 @@
 $(function(){
   var participant = [
-  	{ value: 'Abhinav Bhardwaj | abhinav.bhardwaj_cs18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhinav+Bhardwaj.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhinav+Bhardwaj.jpg">Download</a>'}
+  	{ value: 'Name | Event_Name', data: '<a href="complete link goes here" target="_blank" download="the same link goes here as well">Download</a>'}
     ];
   
   // setup autocomplete function pulling from currencies[] array
